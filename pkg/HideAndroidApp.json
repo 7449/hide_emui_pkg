@@ -1,0 +1,322 @@
+[
+  {
+    "package_name": "android",
+    "description": "系统",
+    "disable": false
+  },
+  {
+    "package_name": "androidhwext",
+    "description": "ignore",
+    "disable": false
+  },
+  {
+    "package_name": "android.ext.shared",
+    "description": "Android Shared Library",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.documentsui",
+    "description": "文件",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.externalstorage",
+    "description": "外部存储设备",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.media",
+    "description": "ignore",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.companiondevicemanager",
+    "description": "跟随设备管理�?",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.mms.service",
+    "description": "MmsService",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.downloads",
+    "description": "下载管理器",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.networkstack.inprocess",
+    "description": "网络管理器",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.telephony",
+    "description": "通话/信息存储",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.pacprocessor",
+    "description": "PacProcessor",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.certinstaller",
+    "description": "证书安装程序",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.carrierconfig",
+    "description": "ignore",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.mtp",
+    "description": "MTP 主机",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.nfc",
+    "description": "NFC 服务",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.settings",
+    "description": "设置存储",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.incallui",
+    "description": "电话",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.se",
+    "description": "SecureElementService",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.inputdevices",
+    "description": "输入设备",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.cellbroadcastreceiver",
+    "description": "小区广播",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.server.telecom",
+    "description": "通话管理",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.cellbroadcastservice",
+    "description": "Cell Broadcast Service",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.keychain",
+    "description": "密钥链",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.packageinstaller",
+    "description": "应用安装器",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.proxyhandler",
+    "description": "ProxyHandler",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.settings",
+    "description": "设置",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.networkstack.tethering.inprocess",
+    "description": "Tethering",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.networkstack.permissionconfig",
+    "description": "com.android.server.NetworkPermissionConfig",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.vpndialogs",
+    "description": "VpnDialogs",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.phone",
+    "description": "拨号服务",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.shell",
+    "description": "Shell",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.blockednumber",
+    "description": "存储已屏蔽的号码",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.userdictionary",
+    "description": "用户词典",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.media.module",
+    "description": "媒体存储",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.location.fused",
+    "description": "融合定位",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.systemui",
+    "description": "系统用户界面",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.bluetoothmidiservice",
+    "description": "Bluetooth MIDI Service",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.permissioncontroller",
+    "description": "权限控制器",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.bluetooth",
+    "description": "蓝牙",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.providers.contacts",
+    "description": "联系人存储",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.captiveportallogin",
+    "description": "CaptivePortalLogin",
+    "disable": false
+  },
+  {
+    "package_name": "com.android.frameworkres.overlay",
+    "description": "安卓系统界面-导航条高度设定",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.statementservice",
+    "description": "Intent Filter Verification Service",
+    "disable": true
+  },
+  {
+    "package_name": "android.ext.services",
+    "description": "安卓附加服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.soundrecorder",
+    "description": "录音机",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.htmlviewer",
+    "description": "html查看器",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.ons",
+    "description": "com.android.ons.ONSApplication 来自三星",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.providers.downloads.ui",
+    "description": "下载App(禁用不影响)",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.sharedstoragebackup",
+    "description": "备份",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.simappdialog",
+    "description": "SIM卡应用界面",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.wallpaperbackup",
+    "description": "壁纸备份",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.printspooler",
+    "description": "打印处理服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.stk",
+    "description": "SIM 卡应用",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.providers.calendar",
+    "description": "日历存储",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.wallpaper.livepicker",
+    "description": "桌面动态壁纸",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.wallpapercropper",
+    "description": "壁纸编辑器",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.cts.ctsshim",
+    "description": "兼容性开发工具",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.backupconfirm",
+    "description": "备份确认",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.calllogbackup",
+    "description": "Call Log Backup/Restore 通话记录备份",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.cts.priv.ctsshim",
+    "description": "私有app兼容性开发工具",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.emergency",
+    "description": "紧急信息,紧急联系人",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.localtransport",
+    "description": "设备之间安全共享数据备份",
+    "disable": true
+  },
+  {
+    "package_name": "com.android.managedprovisioning",
+    "description": "工作资料设置",
+    "disable": true
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "package_name": "com.huawei.remotepassword",
+    "description": "RemotePassword",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.nb.service",
+    "description": "数据管理服务",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.deviceauth",
+    "description": "TrustedDeviceAuth",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.distributed.kms",
+    "description": "HwDistributedKeyManager",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.ca",
+    "description": "CA",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.def",
+    "description": "DEF",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.ims",
+    "description": "HwImsService",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.lbs",
+    "description": "位置服务",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.hwddmp",
+    "description": "HwDDMP",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.onehopsvcclient",
+    "description": "OneHopSvcClient(分布式技术的核心组成部分碰碰传)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.wifiprobqeservice",
+    "description": "HwWifiproBqeService(评估 WIFI 质量)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwasm",
+    "description": "FIDO UAF ASM",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.distributedpasteboard",
+    "description": "中转站",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.devicegroupmanage",
+    "description": "HwGroupManager(多设备协同)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.internal.app",
+    "description": "System Share(负责配置默认打开应用等修改过的系统支撑库)",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.msdp",
+    "description": "综合传感信息处理平台",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.profile",
+    "description": "Profile Services",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.nearby",
+    "description": "HwNearby 华为近距离通信服务(禁用了不能滑动到任务中心列表)",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.iaware",
+    "description": "智能优化.禁用发热不会降频，不会随意强制降级屏幕分辨率",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.android.hwaps",
+    "description": "华为APS服务 智能分辨率 配合省电精灵、iaware实现硬件资源调度",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.hidisk",
+    "description": "华为云服务",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.hicloud",
+    "description": "华为云盘",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.android.launcher",
+    "description": "华为桌面",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.android.hsf",
+    "description": "HMS 服务框架",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.filemanager",
+    "description": "文件管理",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.appmarket",
+    "description": "华为应用市场",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.desktop.systemui",
+    "description": "系统界面",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.hwid",
+    "description": "HMS Core",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.phone.recorder",
+    "description": "通话录音",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.systemserver",
+    "description": "系统服务",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.systemmanager",
+    "description": "手机管家",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.secime",
+    "description": "Secure IME 安全键盘",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.android.hwouc",
+    "description": "软件更新",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.imedia.sws",
+    "description": "Histen Histen音效",
+    "disable": false
+  },
+  {
+    "package_name": "com.huawei.multimedia.audioengine",
+    "description": "华为音频引擎",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.aod",
+    "description": "熄屏显示",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.screenrecorder",
+    "description": "屏幕录制",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.motionservice",
+    "description": "手势服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.FloatTasks",
+    "description": "悬浮导航",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.HwMultiScreenShot",
+    "description": "滚动截屏",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.audioaccessorymanager",
+    "description": "音频管家",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.AutoRegSms",
+    "description": "AutoRegSms自动注册服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.featurelayer.sharedfeature.map",
+    "description": "华为地图服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.spaceservice",
+    "description": "地理围栏服务云空间",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.waudio",
+    "description": "waudio",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.featurelayer.featureframework",
+    "description": "FeatureFramework",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.easygo",
+    "description": "HW EasyGo",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.suggestion",
+    "description": "情景智能",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.ohos.collaborationcenter",
+    "description": "CollaborationCenter",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.securityserver",
+    "description": "安全公共服务,隐私空间",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.bonevoiceui",
+    "description": "骨声纹识别",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.nemo",
+    "description": "华为家庭存储同步服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.onehopsvchost",
+    "description": "标签服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.projectmenu",
+    "description": "工程菜单",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.assetsync",
+    "description": "关键资产同步",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.chr",
+    "description": "HwChrService(通信协议可维可测apk，用于检测异常，收集异常关键信息)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.searchservice",
+    "description": "融合搜索服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.assetsyncservice",
+    "description": "关键资产同步管理服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.wfdft",
+    "description": "WLAN 直连",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.harmonyos.foundation",
+    "description": "foundation",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.trustagent",
+    "description": "智能解锁",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.coauthservice",
+    "description": "UserIAMBase(华为联合认证)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.airlink",
+    "description": "AirLink",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hiaction",
+    "description": "HiAI Base",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.recsys",
+    "description": "HwHiAIDSEngine",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.bluetooth",
+    "description": "通过蓝牙导入",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwbluetoothpencilmanager",
+    "description": "蓝牙触控笔管理",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hiview",
+    "description": "hiview",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.hwupgradeguide",
+    "description": "升级向导",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.instantonline",
+    "description": "华为一键热点",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.rcsserviceapplication",
+    "description": "华为 RCS 服务 智能推荐系统",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.securitymgr",
+    "description": "密码保险箱",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.iconnect",
+    "description": "设备连接服务(扫描发现穿戴设备后进行连接提醒)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwdockbar",
+    "description": "智慧多窗",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.airsharing",
+    "description": "无线投屏",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.livewallpaper.paradise",
+    "description": "超级壁纸",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hitouch",
+    "description": "智慧识屏",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.controlcenter",
+    "description": "智慧协同",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.privatespace",
+    "description": "隐私空间",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.vassistant",
+    "description": "智慧语音",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.stylus.floatmenu",
+    "description": "手写笔悬浮窗",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hiai",
+    "description": "华为智慧引擎",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.search",
+    "description": "智慧搜索",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.parentcontrol",
+    "description": "健康使用手机",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.contentsensor",
+    "description": "取词",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.printservice",
+    "description": "华为打印",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.dmsdp",
+    "description": "多设备协同",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwpanpayservice",
+    "description": "HwPanPayService",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hilink.framework",
+    "description": "智慧生活基础服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.desktop.explorer",
+    "description": "我的文件",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.trustcircle",
+    "description": "设备认证服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwpolicyservice",
+    "description": "旅行助手服务管理",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.regservice",
+    "description": "RegService 华为注册服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.findmyphone",
+    "description": "查找设备",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hiviewtunnel",
+    "description": "HiViewTunnel 日志上传功能",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hicard",
+    "description": "HiCard",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.wallet.sdk.walletsdk",
+    "description": "WalletSDK",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.livewallpaper.ripplestone",
+    "description": "润泽",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.pcassistant",
+    "description": "华为分享",
+    "disable": true
+  },
+  {
+    "package_name": "com.bjbyhd.screenreader_huawei",
+    "description": "屏幕朗读",
+    "disable": true
+  },
+  {
+    "package_name": "com.baidu.input_huawei",
+    "description": "内置百度输入法",
+    "disable": true
+  },
+  {
+    "package_name": "com.sohu.sohuvideo.emplayer",
+    "description": "搜狐视频插件",
+    "disable": true
+  },
+  {
+    "package_name": "com.tencent.qqlivehuawei",
+    "description": "腾讯视频插件",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.himovie.partner1",
+    "description": "HiMoviePlayerPlus",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.himovie.partner2",
+    "description": "HiMoviePlayerPlus",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwstartupguide",
+    "description": "HwStartupGuide 安装初始向导",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.powergenie",
+    "description": "华为超级省电模式",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.synergy",
+    "description": "synergy(可以将手机端的消息同步到您的穿戴设备上)",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.UEInfoCheck",
+    "description": "用户体验计划监控",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.devicemanager",
+    "description": "分布式设备管理 智慧协同",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.instantshare",
+    "description": "华为分享",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.magazine",
+    "description": "杂志锁屏",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.featurelayer.sharedfeature.stylus",
+    "description": "华为手写笔服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.scanner",
+    "description": "智慧视觉",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.trustspace",
+    "description": "支付保护中心",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.browser",
+    "description": "华为浏览器",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.videoeditor",
+    "description": "视频编辑",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwvoipservice",
+    "description": "畅连服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.karaoke",
+    "description": "K歌特效",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.skytone",
+    "description": "天际通数据服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.ohos.famanager",
+    "description": "服务中心",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.himovie",
+    "description": "华为视频",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.ohos.suggestion",
+    "description": "小艺建议",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.mmitest",
+    "description": "MMITest",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.intelligent",
+    "description": "智慧助手·今天",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.dsdscardmanager",
+    "description": "SIM 卡管理",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.gamebox",
+    "description": "游戏中心",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.music",
+    "description": "音乐",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.thememanager",
+    "description": "主题",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.wallet",
+    "description": "华为钱包",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.fastapp",
+    "description": "快应用中心",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.phoneservice",
+    "description": "我的华为",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.pengine",
+    "description": "华为智能建议",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.languagedownloader",
+    "description": "下载语言",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.android.pushagent",
+    "description": "推送服务",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.gameassistant",
+    "description": "游戏应用助手",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hicar",
+    "description": "华为车联网",
+    "disable": true
+  },
+  {
+    "package_name": "com.huawei.hwdetectrepair",
+    "description": "智能检测基础服务 维修助手",
+    "disable": true
+  }
+]
