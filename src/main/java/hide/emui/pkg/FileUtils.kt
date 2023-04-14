@@ -10,18 +10,18 @@ fun Any.toJson(): String {
     return gson.toJson(this)
 }
 
-fun String.fromJson(): MutableList<HideEmuiPkgData> {
-    val data = mutableListOf<HideEmuiPkgData>()
-    data.addAll(gson.fromJson(this, object : TypeToken<MutableList<HideEmuiPkgData>>() {}.type))
+fun String.fromJson(): MutableList<PkgEntity> {
+    val data = mutableListOf<PkgEntity>()
+    runCatching { data.addAll(gson.fromJson(this, object : TypeToken<MutableList<PkgEntity>>() {}.type)) }
     return data
 }
 
-fun MutableList<HideEmuiPkgData>.exShell() {
+fun MutableList<PkgEntity>.exShell() {
     runCatching {
         forEach {
             with(Runtime.getRuntime().exec(it.shell())) {
-                println(this.errorStream.bufferedReader().readText())
-                println(this.inputStream.bufferedReader().readText())
+                println(errorStream.bufferedReader().readText())
+                println(inputStream.bufferedReader().readText())
             }
         }
     }.map {
@@ -55,13 +55,12 @@ fun File.write3PkgToJson() {
 }
 
 fun File.writeShellText(shell: String) {
-    Runtime.getRuntime().exec(shell).inputStream.bufferedReader().useLines {
+    Runtime.getRuntime().exec(shell).inputStream.bufferedReader().useLines { it ->
         writeText(it.toMutableList().apply {
             println("$shell 输出pkg${size}个")
         }.map { value ->
             val pkg = value.replace("package:", "").trim()
-            HideEmuiPkgData("", pkg, "", false)
+            PkgEntity("", pkg, false)
         }.toJson())
     }
 }
-

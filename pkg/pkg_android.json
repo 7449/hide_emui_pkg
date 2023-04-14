@@ -1,458 +1,362 @@
 [
   {
-    "app_name": "",
-    "package_name": "com.android.cts.priv.ctsshim",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.telephony",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.calendar",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.media",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.wallpapercropper",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.wifi.resources.overlay",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.documentsui",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.externalstorage",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.sohu.sohuvideo.emplayer",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.htmlviewer",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.companiondevicemanager",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.iflytek.speechsuite",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.mms.service",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.downloads",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.networkstack.inprocess",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.downloads.ui",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.pacprocessor",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.systemui.overlay",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.connectivity.resources",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "androidhwext",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.modulemetadata",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.certinstaller",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.carrierconfig",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
+    "app_name": "系统",
     "package_name": "android",
-    "description": "",
     "disable": false
   },
   {
-    "app_name": "",
-    "package_name": "com.android.mms",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.mtp",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.nfc",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.ons",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.stk",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.backupconfirm",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.statementservice",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "ohos.media.medialibrary",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.settings",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.sharedstoragebackup",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.printspooler",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.frameworkres.overlay",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.incallui",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.se",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.inputdevices",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.cellbroadcastreceiver",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "android.ext.shared",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.onetimeinitializer",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.server.telecom",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.cellbroadcastservice",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.keychain",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.printservice.recommendation",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
+    "app_name": "安卓附加服务",
     "package_name": "android.ext.services",
-    "description": "",
     "disable": false
   },
   {
-    "app_name": "",
-    "package_name": "com.android.wifi.resources",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.calllogbackup",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.packageinstaller",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.proxyhandler",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.managedprovisioning",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.dreams.phototable",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.wallpaper.livepicker",
-    "description": "",
+    "app_name": "Android Shared Library",
+    "package_name": "android.ext.shared",
     "disable": false
   },
   {
     "app_name": "",
     "package_name": "com.android.apps.tag",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "备份确认",
+    "package_name": "com.android.backupconfirm",
+    "disable": false
+  },
+  {
+    "app_name": "蓝牙",
+    "package_name": "com.android.bluetooth",
+    "disable": false
+  },
+  {
+    "app_name": "Bluetooth MIDI Service",
+    "package_name": "com.android.bluetoothmidiservice",
+    "disable": false
+  },
+  {
+    "app_name": "Call Log Backup/Restore 通话记录备份",
+    "package_name": "com.android.calllogbackup",
+    "disable": false
+  },
+  {
+    "app_name": "CaptivePortalLogin",
+    "package_name": "com.android.captiveportallogin",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.settings",
-    "description": "",
+    "package_name": "com.android.carrierconfig",
+    "disable": false
+  },
+  {
+    "app_name": "小区广播",
+    "package_name": "com.android.cellbroadcastreceiver",
+    "disable": false
+  },
+  {
+    "app_name": "Cell Broadcast Service",
+    "package_name": "com.android.cellbroadcastservice",
+    "disable": false
+  },
+  {
+    "app_name": "证书安装程序",
+    "package_name": "com.android.certinstaller",
+    "disable": false
+  },
+  {
+    "app_name": "跟随设备管理器",
+    "package_name": "com.android.companiondevicemanager",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.networkstack.tethering.inprocess",
-    "description": "",
+    "package_name": "com.android.connectivity.resources",
     "disable": false
   },
   {
-    "app_name": "",
-    "package_name": "com.android.networkstack.permissionconfig",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
+    "app_name": "兼容性开发工具",
     "package_name": "com.android.cts.ctsshim",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "私有app兼容性开发工具",
+    "package_name": "com.android.cts.priv.ctsshim",
+    "disable": false
+  },
+  {
+    "app_name": "文件",
+    "package_name": "com.android.documentsui",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.vpndialogs",
-    "description": "",
+    "package_name": "com.android.dreams.phototable",
     "disable": false
   },
   {
-    "app_name": "",
-    "package_name": "com.android.phone",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.shell",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.wallpaperbackup",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.blockednumber",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.userdictionary",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
-    "package_name": "com.android.providers.media.module",
-    "description": "",
-    "disable": false
-  },
-  {
-    "app_name": "",
+    "app_name": "紧急信息,紧急联系人",
     "package_name": "com.android.emergency",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "外部存储设备",
+    "package_name": "com.android.externalstorage",
+    "disable": false
+  },
+  {
+    "app_name": "安卓系统界面-导航条高度设定",
+    "package_name": "com.android.frameworkres.overlay",
     "disable": false
   },
   {
     "app_name": "",
     "package_name": "com.android.hotspot2.osulogin",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "html查看器",
+    "package_name": "com.android.htmlviewer",
+    "disable": false
+  },
+  {
+    "app_name": "电话",
+    "package_name": "com.android.incallui",
+    "disable": false
+  },
+  {
+    "app_name": "输入设备",
+    "package_name": "com.android.inputdevices",
     "disable": false
   },
   {
     "app_name": "",
     "package_name": "com.android.internal.systemui.navbar.gestural",
-    "description": "",
     "disable": false
   },
   {
-    "app_name": "",
+    "app_name": "密钥链",
+    "package_name": "com.android.keychain",
+    "disable": false
+  },
+  {
+    "app_name": "融合定位",
     "package_name": "com.android.location.fused",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "工作资料设置",
+    "package_name": "com.android.managedprovisioning",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.systemui",
-    "description": "",
+    "package_name": "com.android.mms",
+    "disable": false
+  },
+  {
+    "app_name": "MmsService",
+    "package_name": "com.android.mms.service",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.bluetoothmidiservice",
-    "description": "",
+    "package_name": "com.android.modulemetadata",
+    "disable": false
+  },
+  {
+    "app_name": "MTP 主机",
+    "package_name": "com.android.mtp",
+    "disable": false
+  },
+  {
+    "app_name": "网络管理器",
+    "package_name": "com.android.networkstack.inprocess",
+    "disable": false
+  },
+  {
+    "app_name": "com.android.server.NetworkPermissionConfig",
+    "package_name": "com.android.networkstack.permissionconfig",
+    "disable": false
+  },
+  {
+    "app_name": "Tethering",
+    "package_name": "com.android.networkstack.tethering.inprocess",
+    "disable": false
+  },
+  {
+    "app_name": "NFC 服务",
+    "package_name": "com.android.nfc",
     "disable": false
   },
   {
     "app_name": "",
+    "package_name": "com.android.onetimeinitializer",
+    "disable": false
+  },
+  {
+    "app_name": "com.android.ons.ONSApplication 来自三星",
+    "package_name": "com.android.ons",
+    "disable": false
+  },
+  {
+    "app_name": "应用安装器",
+    "package_name": "com.android.packageinstaller",
+    "disable": false
+  },
+  {
+    "app_name": "PacProcessor",
+    "package_name": "com.android.pacprocessor",
+    "disable": false
+  },
+  {
+    "app_name": "权限控制器",
     "package_name": "com.android.permissioncontroller",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "拨号服务",
+    "package_name": "com.android.phone",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.bluetooth",
-    "description": "",
+    "package_name": "com.android.printservice.recommendation",
     "disable": false
   },
   {
-    "app_name": "",
+    "app_name": "打印处理服务",
+    "package_name": "com.android.printspooler",
+    "disable": false
+  },
+  {
+    "app_name": "存储已屏蔽的号码",
+    "package_name": "com.android.providers.blockednumber",
+    "disable": false
+  },
+  {
+    "app_name": "日历存储",
+    "package_name": "com.android.providers.calendar",
+    "disable": false
+  },
+  {
+    "app_name": "联系人存储",
     "package_name": "com.android.providers.contacts",
-    "description": "",
+    "disable": false
+  },
+  {
+    "app_name": "下载管理器",
+    "package_name": "com.android.providers.downloads",
+    "disable": false
+  },
+  {
+    "app_name": "下载App(禁用不影响)",
+    "package_name": "com.android.providers.downloads.ui",
     "disable": false
   },
   {
     "app_name": "",
-    "package_name": "com.android.captiveportallogin",
-    "description": "",
+    "package_name": "com.android.providers.media",
+    "disable": false
+  },
+  {
+    "app_name": "媒体存储",
+    "package_name": "com.android.providers.media.module",
+    "disable": false
+  },
+  {
+    "app_name": "设置存储",
+    "package_name": "com.android.providers.settings",
+    "disable": false
+  },
+  {
+    "app_name": "通话/信息存储",
+    "package_name": "com.android.providers.telephony",
+    "disable": false
+  },
+  {
+    "app_name": "用户词典",
+    "package_name": "com.android.providers.userdictionary",
+    "disable": false
+  },
+  {
+    "app_name": "ProxyHandler",
+    "package_name": "com.android.proxyhandler",
+    "disable": false
+  },
+  {
+    "app_name": "SecureElementService",
+    "package_name": "com.android.se",
+    "disable": false
+  },
+  {
+    "app_name": "通话管理",
+    "package_name": "com.android.server.telecom",
+    "disable": false
+  },
+  {
+    "app_name": "设置",
+    "package_name": "com.android.settings",
+    "disable": false
+  },
+  {
+    "app_name": "备份",
+    "package_name": "com.android.sharedstoragebackup",
+    "disable": false
+  },
+  {
+    "app_name": "Shell",
+    "package_name": "com.android.shell",
+    "disable": false
+  },
+  {
+    "app_name": "Intent Filter Verification Service",
+    "package_name": "com.android.statementservice",
+    "disable": false
+  },
+  {
+    "app_name": "SIM 卡应用",
+    "package_name": "com.android.stk",
+    "disable": false
+  },
+  {
+    "app_name": "系统用户界面",
+    "package_name": "com.android.systemui",
+    "disable": false
+  },
+  {
+    "app_name": "",
+    "package_name": "com.android.systemui.overlay",
+    "disable": false
+  },
+  {
+    "app_name": "VpnDialogs",
+    "package_name": "com.android.vpndialogs",
+    "disable": false
+  },
+  {
+    "app_name": "桌面动态壁纸",
+    "package_name": "com.android.wallpaper.livepicker",
+    "disable": false
+  },
+  {
+    "app_name": "壁纸备份",
+    "package_name": "com.android.wallpaperbackup",
+    "disable": false
+  },
+  {
+    "app_name": "壁纸编辑器",
+    "package_name": "com.android.wallpapercropper",
+    "disable": false
+  },
+  {
+    "app_name": "",
+    "package_name": "com.android.wifi.resources",
+    "disable": false
+  },
+  {
+    "app_name": "",
+    "package_name": "com.android.wifi.resources.overlay",
     "disable": false
   }
 ]
